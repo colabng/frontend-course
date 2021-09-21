@@ -4,7 +4,7 @@
 * How the internet works
 * HTML & CSS 
 * Git & Github
-* Free hosting with Netlify
+* Free hosting
 * Trello
 * Slack
 
@@ -108,10 +108,10 @@
 
 * Redux
 * Redux For State Management
-* Tech Reducers, Action & Components
-* Tech Options
-* Add Tech
-* Delete Tech
+* Reducers, Action & Components
+* Options
+* Add
+* Delete
 
 ### PART IV
 * Introduction to Test-Driven Development
