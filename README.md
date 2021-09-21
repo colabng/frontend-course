@@ -50,5 +50,30 @@
 
 ## Week 6 & 7
 * Asynchronous JS
+* What is asynchronous programming
+* AJAX & XHR
+* XHR Object methods and working with text
+* Working with AJAX & JSON
+* External API (Chuck Norris - mini project)
+* REST APIs & HTTP Requests
+* Callback Functions
+* Custom HTTP (AJAX with callbacks)
+* ES6 Promises
+* The FETCH API
+* Arrow functions 
+* Async Await
 
 
+### Projects
+* Github Finder
+* Weather App
+
+
+## Week 8
+* ES6 New Features
+* Iterators and generators
+* Symbols
+* Destructuring
+* ES6 Maps
+* ES6 Sets
+* Mini Project on iterators - Profile scroller 
